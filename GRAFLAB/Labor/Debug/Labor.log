@@ -1,0 +1,12 @@
+﻿  Labor.cpp
+C:\Users\Zoltan\Desktop\GRAFLAB\Labor\Labor.cpp(198,11): warning C4244: 'initializing': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+C:\Users\Zoltan\Desktop\GRAFLAB\Labor\Labor.cpp(203,12): warning C4244: 'initializing': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+  Labor.vcxproj -> C:\Users\Zoltan\Desktop\GRAFLAB\Labor\Debug\Labor.exe
